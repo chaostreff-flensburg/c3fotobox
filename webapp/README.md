@@ -1,0 +1,2 @@
+Die webapp soll eine Webseite darstellen auf der alle öffentlich einsehbar sind und die Bilder auf Twitter vertwittert.
+Außerdem kann man einstellen über welchen Twitter Account die Bilder vertwittert werden sollen.
